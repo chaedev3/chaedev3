@@ -3,16 +3,18 @@
 <p align='center'>
    🚀 Who Am I?
 </p>
-
+<br/>
+<br/> 
 <p align='center'>
     안녕하세요 FE 개발자 정채린입니다! 
 </p>
-
+<br/>
 <p align='center' >
     <a href="https://velog.io/@chaedev3"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> 
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaedev3%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-
+<br/>
+<br/> 
 
 
 
@@ -20,6 +22,7 @@
 <p align='center'>
    📚 Tech Stack
 </p>
+<br/>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -49,18 +52,21 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 </p>
 
-
+<br/>
+<br/> 
 
 
 
 <p align='center'>
     🎓 Education 
 </p>
+<br/>
 
 <p align='center'>
   삼성 청년 SW 아카데미 8기(2022.07. - 2023.06.) 
 </p>
-
+<br/>
+<br/> 
 
 
 
@@ -68,19 +74,24 @@
 <p align='center'>
    👍 GitHub Stats 
 </p>
+<br/>
+<div align="center">
+   ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaedev3&show_icons=true&theme=gruvbox&align=center)
+</div>
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaedev3&show_icons=true&theme=gruvbox&align=center)
 
-
+<br/>
+<br/>
 
 
 
 <p align='center'>
     ⭐ Baekjoon 
 </p>
-
+<br/>
+<div align="center">
 ![Solved.ac Profile](<http://mazassumnida.wtf/api/v2/generate_badge?boj=chaelin2231>)
-
+</div> 
 
 
 
