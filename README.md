@@ -55,7 +55,7 @@
    👍 GitHub Stats 
 </p>
 <br/>
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaedev3&show_icons=true&theme=gruvbox&align=center)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaedev3&show_icons=true&theme=gruvbox)
 <br/>
 <br/>
 <p align='center'>
