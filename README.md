@@ -49,22 +49,6 @@
 <p align='center'>
   삼성 청년 SW 아카데미 8기(2022.07. - 2023.06.) 
 </p>
-<br/>
-<br/> 
-<p align='center'>
-   👍 GitHub Stats 
-</p>
-<br/> 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaedev3&show_icons=true&theme=gruvbox&align=center)
 
-<br/> 
-<br/> 
-
-
-<p align='center'>
-    ⭐ Baekjoon 
-</p>
-<br/> 
-![Solved.ac Profile](<http://mazassumnida.wtf/api/v2/generate_badge?boj=chaelin2231>)
 
 
