@@ -52,14 +52,27 @@
 <p align='center'>
   삼성 청년 SW 아카데미 8기(2022.07. - 2023.06.) 
 </p>
+<br/>
 
+<br/>
 
 <p align='center'>
     🏆 BaekJoon Rank 
 </p> 
-<br/>
-<br/> <div align='center'> 
+ <div align='center'> 
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaelin2231)
 
-</div>
+
+
+<br/>
+
+<br/> <p align='center'>
+    💗 Github Status 
+</p> 
+
+
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaedev3&layout=compact&theme=radical) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaedev3&show_icons=true&theme=radical) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
