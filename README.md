@@ -51,4 +51,18 @@
 </p>
 
 
+<p align='center'>
+    🏆 BaekJoon Rank 
+</p> 
+<br/>
+<br/>
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaelin2231)
+<br/>
+<br/>
+<p align='center'>
+    💖 Github Status  
+</p>
+<br/>
+<br/>
+
 
