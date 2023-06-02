@@ -1,4 +1,6 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=chaedev3%20GitHub%20Profile!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=chaedev3%20GitHub%20Profile!&descAlignY=51&descAlign=62)
+
+
 
 <p align='center'>
    🚀 Who Am I?
@@ -13,6 +15,7 @@
 </p>
 <br/>
 <br/> 
+
 <p align='center'>
    📚 Tech Stack
 </p>
@@ -55,14 +58,8 @@
     🏆 BaekJoon Rank 
 </p> 
 <br/>
-<br/>
+<br/> <div align='center'> 
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaelin2231)
-<br/>
-<br/>
-<p align='center'>
-    💖 Github Status  
-</p>
-<br/>
-<br/>
 
-
+</div>
